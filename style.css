@@ -1,0 +1,13 @@
+
+@import url(styles/header.css);
+
+:root { --cor-de-fundo: #F5F5F5;
+}
+
+body {background-color: var(--cor-de-fundo);}
+
+    h3 {
+         font-family: "Courier New", monospace;
+         font-size: 14px;
+        
+    }
