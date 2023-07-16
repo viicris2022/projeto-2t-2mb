@@ -3,13 +3,26 @@
 
 :root { --cor-de-fundo: #F5F5F5;
 }
-
-
+ 
+h1
+{  
+  @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Poppins:wght@500&display=swap'); 
+}
 
 body {background-color: var(--cor-de-fundo);}
+
+
+h2  {
+  font-family: "Courier New", monospace;
+  font-size: 14px;
+  line-height: 1.2px;
+ 
+}
+
 
     h3 {
          font-family: "Courier New", monospace;
          font-size: 14px;
+         line-height: 1.2px;
         
     }
